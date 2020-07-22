@@ -2,6 +2,7 @@ import pyperclip
 from tkinter import *
 
 root = Tk()
+root.title("Empty line deleter")
 root.attributes('-topmost', 'true')
 
 def click():
